@@ -8,7 +8,7 @@ package sistemaInventario.java;
 public class SistemaInventario {
 
     public static void main(String[] args) {
-        System.out.println("Hola Mundo");
+        System.out.println("Sistema de Inventario en progreso!!!");
     }
     
 }
